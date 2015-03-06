@@ -47,7 +47,7 @@ h1 {
 */
 
 .head-img {
-    heigt: 400px;
+    height: 400px;
     margin-bottom: 40px;
 }
 .nav-bar {
@@ -265,6 +265,7 @@ h1 {
     text-transform: uppercase;
     margin-left: 155px;
     color: inherit;
+    margin-bottom: 20px;
 }
 
 .right img {
@@ -305,4 +306,12 @@ h1 {
     display: block;
     margin-top: 0;
     font-size: 11px;
+}
+
+.error_msg {
+    color: red;   
+}
+
+.success_msg {
+    color: green;   
 }
